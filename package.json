@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KiichiSugihara/babel-loader-use.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kiichi Sugihara",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KiichiSugihara/babel-loader-use/issues"
